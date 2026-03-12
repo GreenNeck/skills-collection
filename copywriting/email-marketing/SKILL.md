@@ -1,6 +1,6 @@
 ---
 name: email-marketing
-description: Criação de e-mails de marketing de alta conversão (newsletters, sequências de nutrição, e-mails de venda). Use para: escrever assuntos irresistíveis, estruturar fluxos de automação e aumentar taxas de abertura e clique.
+description: "Criação de e-mails de marketing de alta conversão (newsletters, sequências de nutrição, e-mails de venda). Use para escrever assuntos irresistíveis, estruturar fluxos de automação e aumentar taxas de abertura e clique."
 ---
 
 # Email Marketing Skill

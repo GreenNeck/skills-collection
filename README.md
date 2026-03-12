@@ -28,6 +28,13 @@ skills-collection/
 | `persuasive-copy`  | Frameworks AIDA e PAS para textos persuasivos de alta conversão   |
 | `email-marketing`  | Estrutura de e-mails, sequências de automação e assuntos eficazes |
 | `ad-copy`          | Textos para anúncios pagos no Meta Ads, Google Ads e LinkedIn     |
+| `human-writing`    | Técnicas para escrita humanizada e autêntica (estilo Claude)      |
+
+### Marketing
+
+| Skill                       | Descrição                                                                 |
+|-----------------------------|---------------------------------------------------------------------------|
+| `marketing-strategy-claude` | Estratégias de marketing e voz de marca baseadas nas capacidades do Claude |
 
 ### Design
 

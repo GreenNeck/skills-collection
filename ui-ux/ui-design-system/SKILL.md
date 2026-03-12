@@ -1,6 +1,6 @@
 ---
 name: ui-design-system
-description: Criação e manutenção de sistemas de design para interfaces de usuário. Use para: padronizar componentes, definir tokens de design (cores, tipografia, espaçamento) e garantir consistência na UI.
+description: "Criação e manutenção de sistemas de design para interfaces de usuário. Use para padronizar componentes, definir tokens de design (cores, tipografia, espaçamento) e garantir consistência na UI."
 ---
 
 # UI Design System Skill

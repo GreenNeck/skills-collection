@@ -1,6 +1,6 @@
 ---
 name: landing-page-ux
-description: Design e otimização de landing pages de alta conversão. Use para: estruturar seções, definir hierarquia de conteúdo, otimizar CTAs, reduzir fricção e aumentar a taxa de conversão de páginas de destino.
+description: "Design e otimização de landing pages de alta conversão. Use para estruturar seções, definir hierarquia de conteúdo, otimizar CTAs, reduzir fricção e aumentar a taxa de conversão de páginas de destino."
 ---
 
 # Landing Page UX Skill

@@ -1,6 +1,6 @@
 ---
 name: ad-copy
-description: Criação de textos para anúncios pagos (Meta Ads, Google Ads, LinkedIn Ads). Use para: escrever headlines, descrições e CTAs para campanhas de tráfego pago, maximizando CTR e conversão.
+description: "Criação de textos para anúncios pagos (Meta Ads, Google Ads, LinkedIn Ads). Use para escrever headlines, descrições e CTAs para campanhas de tráfego pago, maximizando CTR e conversão."
 ---
 
 # Ad Copy Skill

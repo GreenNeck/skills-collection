@@ -1,6 +1,6 @@
 ---
 name: visual-design
-description: Princípios e práticas de design visual (tipografia, cores, hierarquia). Use para: criar interfaces consistentes, banners, apresentações e materiais gráficos.
+description: "Princípios e práticas de design visual (tipografia, cores, hierarquia). Use para criar interfaces consistentes, banners, apresentações e materiais gráficos."
 ---
 
 # Visual Design Skill

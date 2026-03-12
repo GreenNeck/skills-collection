@@ -1,6 +1,6 @@
 ---
 name: brand-identity
-description: Criação e documentação de identidade visual de marcas. Use para: definir paleta de cores, tipografia, logotipo, tom de voz e diretrizes de marca (brand guidelines).
+description: "Criação e documentação de identidade visual de marcas. Use para definir paleta de cores, tipografia, logotipo, tom de voz e diretrizes de marca (brand guidelines)."
 ---
 
 # Brand Identity Skill

@@ -1,6 +1,6 @@
 ---
 name: persuasive-copy
-description: Criação de textos persuasivos (copywriting) utilizando frameworks comprovados (AIDA, PAS, etc.). Use para: escrever anúncios, landing pages, e-mails de vendas e posts de conversão.
+description: "Criação de textos persuasivos (copywriting) utilizando frameworks comprovados (AIDA, PAS, etc.). Use para escrever anúncios, landing pages, e-mails de vendas e posts de conversão."
 ---
 
 # Persuasive Copywriting Skill

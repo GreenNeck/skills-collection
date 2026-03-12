@@ -1,6 +1,6 @@
 ---
 name: ux-research
-description: Planejamento e execução de pesquisas de experiência do usuário (UX Research). Use para: criar personas, mapas de jornada do usuário, roteiros de entrevista, análise de usabilidade e síntese de insights.
+description: "Planejamento e execução de pesquisas de experiência do usuário (UX Research). Use para criar personas, mapas de jornada do usuário, roteiros de entrevista, análise de usabilidade e síntese de insights."
 ---
 
 # UX Research Skill
